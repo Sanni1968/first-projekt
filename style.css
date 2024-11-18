@@ -1,0 +1,171 @@
+body {
+  margin: 0px;
+  background-image: url(./2Flbg.JPG);
+  background-size: cover;
+}
+
+.Vorderseite {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  justify-items: center;
+  min-height: 100vh;
+  padding: 50px;
+}
+div {
+  display: flex;
+  justify-content: center;
+}
+
+table {
+  color: blanchedalmond;
+  width: 200px;
+  height: 300px;
+}
+img {
+  max-width: 200px;
+  min-width: 200px;
+  min-height: 200px;
+  max-height: 200px;
+}
+h1 {
+  text-align: center;
+  color: red;
+  font-style: italic;
+  text-shadow: -5px 6px 6px rgba(197, 202, 48, 0.95);
+  font-weight: 400;
+  font-style: normal;
+  font-size: 70px;
+}
+.frijole-regular {
+  font-family: "Frijole", system-ui;
+}
+iframe {
+  max-width: 200px;
+  min-width: 200px;
+  min-height: 300px;
+  max-height: 300px;
+  border: 2px dotted red;
+}
+
+.linkbox {
+  display: flex;
+  justify-content: space-between;
+}
+
+a {
+  display: inline-block;
+  padding: 10px 20px;
+  color: chartreuse;
+  text-decoration: none;
+  font-size: xx-large;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-align: center;
+  border-radius: 10px;
+  border: 2px;
+}
+
+a:visited {
+  color: chartreuse;
+}
+
+a:hover {
+  color: #4d79a0;
+}
+
+a[class=buuton] {color: red;}
+a[class=buuton]:hover {color: aquamarine;}
+
+.atma-bold {
+  font-family: "Atma", system-ui;
+  font-weight: 700;
+  font-style: normal;
+}
+section {
+  min-height: 100vh;
+}
+#von_S1 {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 150px;
+  padding-right: 150px;
+  color: aliceblue;
+  background-color: rgba(74, 39, 39, 0.501);
+  text-shadow: -5px 6px 6px rgba(83, 90, 155, 0.95);
+  font-size: medium;
+  font-style: initial;
+}
+#von_S2 {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 150px;
+  padding-right: 150px;
+  color: aliceblue;
+  background-color: rgba(74, 39, 39, 0.501);
+  text-shadow: -5px 6px 6px rgba(7, 12, 59, 0.95);
+  font-size: medium;
+  font-style: initial;
+}
+#von_S3 {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 150px;
+  padding-right: 150px;
+  color: aliceblue;
+  background-color: rgba(74, 39, 39, 0.501);
+  text-shadow: -5px 6px 6px rgba(7, 12, 59, 0.95);
+  font-size: medium;
+  font-style: initial;
+}
+#von_S4 {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 150px;
+  padding-right: 150px;
+  color: aliceblue;
+  background-color: rgba(74, 39, 39, 0.501);
+  text-shadow: -5px 6px 6px rgba(7, 12, 59, 0.95);
+  font-size: medium;
+  font-style: initial;
+}
+#von_S5 {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 150px;
+  padding-right: 150px;
+  color: aliceblue;
+  background-color: rgba(74, 39, 39, 0.501);
+  text-shadow: -5px 6px 6px rgba(7, 12, 59, 0.95);
+  font-size: medium;
+  font-style: initial;
+}
+
+.buuton {
+  border: 2px dashed blue;
+  background-color: blue;
+  padding: 0;
+  font-size: medium;
+}
+.footer {
+  border: 2px dashed rgb(255, 42, 0);
+  background-color: red;
+  padding: 0;
+  font-size: medium;
+  float: right;
+}
+
+.atma-light {
+  font-family: "Atma", system-ui;
+  font-weight: 300;
+  font-style: normal;
+}
+
+footer {
+  text-align: center;
+  margin: 50px;
+  border: none;
+  min-height: 100vh;
+  color: azure;
+  text-shadow: -5px 6px 6px rgba(9, 25, 168, 0.971);
+  font-size: small;
+}
