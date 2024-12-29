@@ -12,6 +12,7 @@ body {
   justify-items: center;
   min-height: 100vh;
   padding: 50px;
+  margin: 50px;
 }
 div {
   display: flex;
