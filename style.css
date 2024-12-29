@@ -10,10 +10,10 @@ body {
   justify-content: space-between;
   justify-content: center;
   justify-items: center;
-  max-height: 100vh;
-  min-height: 100vh:
-  max-width: 100vw;
-  min-width: 100vw;
+  max-height: 75vh;
+  min-height: 75vh:
+  max-width: 175vw;
+  min-width: 75vw;
   padding: 50px;
 }
 div {
@@ -86,10 +86,10 @@ a[class=buuton]:hover {color: aquamarine;}
   font-style: normal;
 }
 section {
-  max-height: 100vh;
-  min-height: 100vh:
-  max-width: 100vw;
-  min-width: 100vw;
+  max-height: 75vh;
+  min-height: 75vh:
+  max-width: 175vw;
+  min-width: 75vw;
 }
 #von_S1 {
   padding-top: 50px;
@@ -172,10 +172,10 @@ section {
 footer {
   text-align: center;
   border: none;
-  max-height: 100vh;
-  min-height: 100vh:
-  max-width: 100vw;
-  min-width: 100vw;
+  max-height: 75vh;
+  min-height: 75vh:
+  max-width: 175vw;
+  min-width: 75vw;
   color: azure;
   text-shadow: -5px 6px 6px rgba(9, 25, 168, 0.971);
   font-size: large;
