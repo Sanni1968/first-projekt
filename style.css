@@ -169,8 +169,8 @@ footer {
   text-align: center;
   border: none;
   min-height: 100vh;
+  min-width: 100vw;
   color: azure;
   text-shadow: -5px 6px 6px rgba(9, 25, 168, 0.971);
   font-size: large;
-  padding: 150px;
 }
