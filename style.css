@@ -1,5 +1,5 @@
 body {
-  margin: 0px;
+  margin: 20px;
   background-image: url(./2Flbg.JPG);
   background-size: cover;
   height: 100vh;
@@ -12,7 +12,6 @@ body {
   justify-content: space-between;
   justify-content: center;
   justify-items: center;
-  item-align: center;
   height: 100vh;
   width: 100vw;
   overflow: hidden;
