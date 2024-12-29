@@ -13,6 +13,7 @@ body {
   min-height: 100vh;
   min-width: 100vh;
   padding: 50px;
+  text-align: center;
 
 }
 div {
@@ -89,6 +90,7 @@ section {
   justify-content: center;
   min-height: 100vh;
   min-width: 100vh;
+  text-align: center;
 }
 #von_S1 {
   padding-top: 50px;
@@ -173,5 +175,5 @@ footer {
   min-height: 100vh;
   color: azure;
   text-shadow: -5px 6px 6px rgba(9, 25, 168, 0.971);
-  font-size: small;
+  font-size: large;
 }
