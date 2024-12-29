@@ -83,8 +83,7 @@ a[class=buuton]:hover {color: aquamarine;}
   font-style: normal;
 }
 section {
-  display:flex;
-  flex-wrap: wrap;
+
   min-height: 100vh;
 
 
