@@ -2,17 +2,16 @@ body {
   margin: 0px;
   background-image: url(./2Flbg.JPG);
   background-size: cover;
-
 }
 
-
 .Vorderseite {
-  display: flexbox;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  justify-items: center;
+  min-height: 100vh;
   max-height: 100vh;
- 
-  overflow: hidden;
- 
- 
+  padding: 50px;
 }
 div {
   display: flex;
@@ -83,14 +82,13 @@ a[class=buuton]:hover {color: aquamarine;}
   font-weight: 700;
   font-style: normal;
 }
+
 section {
-min-height: 100vh;
-  min-width: 100vw;
-  overflow: hidden;
-    max-height: 100vh;
-  max-width: 100vw;
+  min-height: 100vh;
+  
 }
 #von_S1 {
+  display: block;
   padding-top: 50px;
   padding-bottom: 50px;
   padding-left: 150px;
@@ -102,6 +100,7 @@ min-height: 100vh;
   font-style: initial;
 }
 #von_S2 {
+  display: block;
   padding-top: 50px;
   padding-bottom: 50px;
   padding-left: 150px;
@@ -113,6 +112,7 @@ min-height: 100vh;
   font-style: initial;
 }
 #von_S3 {
+  display: block;
   padding-top: 50px;
   padding-bottom: 50px;
   padding-left: 150px;
@@ -124,6 +124,7 @@ min-height: 100vh;
   font-style: initial;
 }
 #von_S4 {
+  display: block;
   padding-top: 50px;
   padding-bottom: 50px;
   padding-left: 150px;
@@ -135,6 +136,7 @@ min-height: 100vh;
   font-style: initial;
 }
 #von_S5 {
+  display: block;
   padding-top: 50px;
   padding-bottom: 50px;
   padding-left: 150px;
@@ -150,9 +152,7 @@ min-height: 100vh;
   border: 2px dashed blue;
   background-color: blue;
   padding: 0;
-  margin-left: 0;
   font-size: medium;
-  float: start;
 }
 .footer {
   border: 2px dashed rgb(255, 42, 0);
@@ -170,13 +170,12 @@ min-height: 100vh;
 
 footer {
   text-align: center;
+  margin: 100px;
+  padding: 50px;
   border: none;
   min-height: 100vh;
-  min-width: 100vw;
-    max-height: 100vh;
-  max-width: 100vw;
-  overflow: hidden;
+  max-height: 100vh;
   color: azure;
   text-shadow: -5px 6px 6px rgba(9, 25, 168, 0.971);
-  font-size: large;
+  font-size: small;
 }
