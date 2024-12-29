@@ -10,8 +10,8 @@ body {
   justify-content: space-between;
   justify-content: center;
   justify-items: center;
-  height: 100vh;
-  width: 100vw;
+  max-height: 100vh;
+  max-width: 100vw;
   padding: 50px;
 }
 div {
@@ -84,8 +84,8 @@ a[class=buuton]:hover {color: aquamarine;}
   font-style: normal;
 }
 section {
- height: 100vh;
- width: 100vw;
+ max-height: 100vh;
+ max-width: 100vw;
 }
 #von_S1 {
   padding-top: 50px;
@@ -168,8 +168,8 @@ section {
 footer {
   text-align: center;
   border: none;
-  height: 100vh;
-  width: 100vw;
+  max-height: 100vh;
+  max-width: 100vw;
   color: azure;
   text-shadow: -5px 6px 6px rgba(9, 25, 168, 0.971);
   font-size: large;
