@@ -87,8 +87,8 @@ a[class=buuton]:hover {color: aquamarine;}
 section {
   display:flex;
   justify-content: center;
-  height: 100vh;
-  width: 100vh;
+  min-height: 100vh;
+  min-width: 100vh;
 }
 #von_S1 {
   padding-top: 50px;
