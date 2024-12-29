@@ -83,13 +83,13 @@ a[class=buuton]:hover {color: aquamarine;}
   font-style: normal;
 }
 section {
- display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  justify-content: center;
-  justify-items: center;
+  text-align: center;
+  margin: 50px;
+  border: none;
   min-height: 100vh;
-  padding: 50px;
+  color: azure;
+  text-shadow: -5px 6px 6px rgba(9, 25, 168, 0.971);
+  font-size: large;
 
 
 }
