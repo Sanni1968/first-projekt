@@ -11,10 +11,7 @@ body {
   justify-content: center;
   justify-items: center;
   min-height: 100vh;
-  min-width: 100vh;
   padding: 50px;
-  text-align: center;
-
 }
 div {
   display: flex;
@@ -90,7 +87,7 @@ section {
   justify-content: center;
   min-height: 100vh;
   min-width: 100vh;
-  text-align: center;
+
 }
 #von_S1 {
   padding-top: 50px;
