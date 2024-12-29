@@ -83,15 +83,7 @@ a[class=buuton]:hover {color: aquamarine;}
   font-style: normal;
 }
 section {
-  text-align: center;
-  margin: 50px;
-  border: none;
   min-height: 100vh;
-  color: azure;
-  text-shadow: -5px 6px 6px rgba(9, 25, 168, 0.971);
-  font-size: large;
-
-
 }
 #von_S1 {
   padding-top: 50px;
