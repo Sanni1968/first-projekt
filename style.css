@@ -7,7 +7,7 @@ body {
 .Vorderseite {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-around;
+  justify-content: space-evenly;
   justify-content: center;
   justify-items: center;
   height: 100vh;
