@@ -145,6 +145,7 @@ section {
   border: 2px dashed blue;
   background-color: blue;
   padding: 0;
+  margin-left: 0;
   font-size: medium;
   float: start;
 }
