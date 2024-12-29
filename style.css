@@ -1,5 +1,5 @@
 body {
-  margin: 20px;
+  margin: 0px;
   background-image: url(./2Flbg.JPG);
   background-size: cover;
 
@@ -10,9 +10,8 @@ body {
   flex-wrap: wrap;
   justify-content: space-between;
   justify-content: center;
-  justify-items: center;
-  min-height: 100vh;
-  min-width: 100vw;
+  height: 100vh;
+  width: 100vw;
   overflow: hidden;
  
  
