@@ -11,6 +11,7 @@ body {
   justify-content: center;
   justify-items: center;
   min-height: 100vh;
+  min-width: 100vw;
   padding: 50px;
 }
 div {
@@ -83,7 +84,8 @@ a[class=buuton]:hover {color: aquamarine;}
   font-style: normal;
 }
 section {
-  min-height: 100vh;
+ min-height: 100vh;
+ min-width: 100vw;
 }
 #von_S1 {
   padding-top: 50px;
