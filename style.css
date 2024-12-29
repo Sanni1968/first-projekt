@@ -6,11 +6,9 @@ body {
 }
 
 .Vorderseite {
-  display: grid;
-  grid-template-rows: auto;
-
-  height: 100vh;
-  width: 100vw;
+  display: flexbox;
+  min-height: 100vh;
+  min-width: 100vw;
   overflow: hidden;
  
  
