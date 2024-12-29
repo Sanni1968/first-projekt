@@ -85,6 +85,8 @@ a[class=buuton]:hover {color: aquamarine;}
   font-style: normal;
 }
 section {
+  display:flex;
+  justify-content: center;
   height: 100vh;
   width: 100vh;
 }
