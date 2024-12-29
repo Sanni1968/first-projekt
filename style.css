@@ -8,7 +8,7 @@ body {
 
 .Vorderseite {
   display: flex;
-  flex-wrap: wrap;
+  flexbox: center;
   justify-content: space-between;
   justify-content: center;
   justify-items: center;
