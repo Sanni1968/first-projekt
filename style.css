@@ -5,6 +5,15 @@ body {
 
 }
 
+
+.Vorderseite {
+  display: flexbox;
+  max-height: 100vh;
+ 
+  overflow: hidden;
+ 
+ 
+}
 div {
   display: flex;
   justify-content: center;
