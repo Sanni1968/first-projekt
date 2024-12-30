@@ -14,8 +14,10 @@ body {
   padding: 50px;
 }
 div {
-  display: flex;
+  display: block;
   justify-content: center;
+    min-height: 100vh;
+  max-height: 100vh;
 }
 
 table {
@@ -52,6 +54,8 @@ iframe {
 .linkbox {
   display: block;
   justify-content: space-between;
+    min-height: 100vh;
+  max-height: 100vh;
 }
 
 a {
