@@ -50,7 +50,7 @@ iframe {
 }
 
 .linkbox {
-  display: flex;
+  display: block;
   justify-content: space-between;
 }
 
